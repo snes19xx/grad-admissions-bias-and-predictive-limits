@@ -19,7 +19,6 @@ PROJECT/
 ├── predictive_modeling.py                      - Logistic regression setup, Saerens prior adjustments, and associated plots.
 ├── scraper.py                                  - Cloudscraper and BeautifulSoup code to scrape applicant records from GradCafe.
 ├── document.pdf                                - pdf version of the jupyter notebook (generated with pandoc)
-├── index.ipynb                                 - Primary Research Notebook.
 ├── web_scraping.ipynb                          - Notebook demonstrating Web scraping process.
 ├── uoft_all_masters_decisions.csv              - Raw scraped dataset of UofT Master's program decisions.
 ├── uoft_published_graduate_admissions_data.csv - Official benchmark dataset for UofT.
